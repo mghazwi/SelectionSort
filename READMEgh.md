@@ -1,2 +1,0 @@
-# SelectionSort
-SelectionSort with Javascript
